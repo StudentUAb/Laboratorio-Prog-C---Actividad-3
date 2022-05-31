@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="600" src="c.png" />
+    <img width="600" src="c-2.png" />
 </h1>
 
 
@@ -17,7 +17,7 @@ O projeto foi feito em C.
 The project was done with C.
 
 
-<img src="menu.png" alt="page-home">
+<img src="recta.png" alt="page-home">
 
 
 🔧 Tecnologias utilizadas:
